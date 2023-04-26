@@ -1,0 +1,17 @@
+
+h1 {
+   text-align: center;
+   padding-top: 100px;
+   padding-bottom: 50px;
+}
+
+.recipes {
+   display: flex;
+   gap: 50px;
+   justify-content: center;
+   align-items: center;
+}
+
+h4 {
+   text-align: center;
+}
